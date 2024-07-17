@@ -1,0 +1,8 @@
+1. Chinh o tim kiem xuong duoi hinh banner thu nho khi xem tren dien thoai. (quan trong)
+2. Xem tren dien thoai - menu mau nen xanh nhe
+3. Kiem tra tren Nightly
+4. Cho text theo hinh nen cua tung slide.
+5. Chinh nut gui tin khi xem dien thoai
+6. Chinh hinh avatar voi nut TK cho thang hang voi menu. 
+7. http://procleaner.vn/blog_admin - lam trang dang nhap, them nut menu chung (lam sau cung dc)
+8. Gan link fanpage tren blog va cac link FB, TW ...
